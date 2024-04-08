@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chase Frederick</h1>
 <h3 align="center">A passionate Consulting Solutions Architect for WWT</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Automation & ML solutions for our WWT partners and clients**
 
