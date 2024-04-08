@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dc644b107345049.5fa4ae1b8c86e.gif)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dc644b107345049.5fa4ae1b8c86e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chase Frederick</h1>
 <h3 align="center">A passionate Consulting Solutions Architect for WWT</h3>
 
