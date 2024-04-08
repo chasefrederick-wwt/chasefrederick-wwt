@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif)
+![MasterHead](https://i.pinimg.com/originals/2f/bc/1d/2fbc1d07df7db5d93259277e967f2dcd.gif)
 <h1 align="center">Hi 👋, I'm Chase Frederick</h1>
 <h3 align="center">A passionate Consulting Solutions Architect for WWT</h3>
 
